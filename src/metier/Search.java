@@ -2,6 +2,8 @@ package metier;
 
 
 public class Search implements ISearch {
+    public Search() {
+    }
 
     private boolean medianEqualsSoughtNumber(boolean test, int soughtNumber, int median) {
         if(soughtNumber == median) {

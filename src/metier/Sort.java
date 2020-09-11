@@ -4,6 +4,9 @@ import java.util.List;
 
 public class Sort implements ISort {
 
+    public Sort() {
+    }
+
     @Override
     public int[] sortArray(int[]intArray) {
 

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="spring-aop-5.2.8.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Téléchargements/spring-aop-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/spring-beans-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/spring-context-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/spring-core-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/spring-expression-5.2.8.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Téléchargements/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
