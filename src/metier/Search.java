@@ -1,6 +1,8 @@
 package metier;
 
+import org.springframework.stereotype.Service;
 
+@Service
 public class Search implements ISearch {
     public Search() {
     }

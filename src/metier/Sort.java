@@ -1,7 +1,8 @@
 package metier;
 
-import java.util.List;
+import org.springframework.stereotype.Service;
 
+@Service
 public class Sort implements ISort {
 
     public Sort() {
